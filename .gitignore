@@ -1,0 +1,18 @@
+# Python/local environment
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Raw/full dataset
+twcs/
+amazon_support_pairs.csv
+amazon_tweets.csv
+clean_customer_messages.csv
+
+# Temporary/intermediate discovery data
+unannotated_tweets.json

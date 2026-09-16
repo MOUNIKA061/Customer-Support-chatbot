@@ -1,0 +1,226 @@
+customer_tweet_id,customer_text,gold_intent,should_escalate,escalation_reason,notes
+1721608,@119959 @115828 I preordered this game 14 months ago just to be sent it for the wrong console. FML... https://t.co/EMBHygMbOL,product_issue,True,order_access_required,
+665592,@AmazonHelp 2ème colis qui devait arriver aujourd'hui et ne le sera pas...C'est quoi votre engagement Prime déjà?,delivery_issue,False,,bo
+820663,@115821 are y’all ever gonna transfer my $50 gc on an account you closed without telling me...? jw,account_membership_issue,True,account_access_required,my Payment not received
+2110004,@115821 dudes. You refunded me for the wrong item. I got my wine. Just not my #reesespeanutbuttercups the wine cost more! I only needed $4!,refund_issue,True,order_access_required,refunded money issue
+399101,@AmazonHelp Fuck u then why the hell u r having @AmazonHelp Twitter handle,other,False,,Customer is expressing frustration about the Twitter support handle but is not asking for a specific support action.
+379365,@AmazonHelp I had a scheduled furniture assembly yesterday which never happened. Upon calling the customer care they could not help much apart.,order_issue,True,repeated_unresolved_issue,Scheduled furniture assembly did not happen and customer care could not resolve the issue.
+2262990,@115821 don’t tell me I got guaranteed delivery and then change the date the day I’m supposed to get everything 😤,delivery_issue,True,order_access_required,Guaranteed delivery date changed for the customer's specific order; resolving it requires checking the order and delivery details.
+457656,@AmazonHelp Amazon shipping.,delivery_issue,True,insufficient_evidence,Customer only mentions Amazon shipping without describing a specific issue or request.
+1856105,@AmazonHelp just had chat with a representative and got assured delivery by 5 pm today. Lets see what happens....,delivery_issue,False,,Customer is discussing a delivery assurance but is not requesting additional support or action.
+1290402,@AmazonHelp My lights all appear here but my Dots do not. Should this be where I select them to add? https://t.co/L7OX9LKLlD,technical_issue,False,,Customer needs help adding Echo Dot devices to their smart-home setup.
+2113644,@AmazonHelp It was a prime delivery option so should have had it Monday! Still says it’s out for delivery! You’ve also lost another parcel as well 👍🏼,delivery_issue,True,order_access_required,Customer reports a delayed Prime delivery and another lost parcel; resolving the specific deliveries requires order/tracking access.
+485273,@AmazonHelp A special amazon line will be contacting me after a 24 hour investigation.. 3 days ago,other,True,repeated_unresolved_issue,"Customer is waiting for promised follow-up after a 24-hour investigation, but three days have passed without contact."
+1177151,@115821 your cust.service just implied that my missing items are my fault for living somewhere unsafe. Poor people dont deserve to get mail?,delivery_issue,True,sensitive_issue,Customer reports missing items and a concerning statement from customer service about their location; requires human review.
+109807,"@AmazonHelp Hablo para que me hagan los reembolsos, me llega el correo de que ya quedó y en unas horas diciéndome que no se pudo hacer efectivo pues necesitan más información, y se vuelve a repetir el ciclo.",refund_issue,True,repeated_unresolved_issue,Customer's refunds repeatedly fail because additional information is requested; requires refund/payment verification.
+1252203,"@AmazonHelp haven't got the cashback for the 1st Recharge via Amazon pay, it's being 15 days now, the recharge was meant for @120602",payment_billing_issue,True,payment_verification_required,Customer has not received cashback for an Amazon Pay recharge after 15 days; transaction details may need to be verified.
+2804319,@AmazonHelp 毎週お世話になってます🙏🙏,other,False,,Customer is expressing appreciation and is not reporting a support issue.
+2608096,"@AmazonHelp No message, just a blank screen. Was working fine then just stopped. Is working on iPad just not tv",technical_issue,False,,Customer reports a blank screen on TV while the service still works on iPad.
+2830675,"Pre-orders are all well and good, @115830, but not when you immediately go out of stock of that item... and then won’t allow the order to be cancelled! https://t.co/lwpqSPVHGb",order_issue,True,order_access_required,Customer wants to cancel a pre-order but is unable to cancel it; resolving the specific order requires order access.
+2470068,@AmazonHelp Please find all details of order no. 405-3693108-4127531.,order_issue,True,order_access_required,Customer requests details for a specific order and requires access to the customer's order information.
+1477275,"@AmazonHelp The advisor said it was a duplicated order and they'd resolve it, but it's still showing ... https://t.co/ilOLeYn8J7",order_issue,True,repeated_unresolved_issue,"Customer was told by an advisor that the order was duplicated and would be resolved, but the duplicate order is still showing."
+62415,@117086 EU TE VENEROOOOOO MEUS LIVROS JÁ CHEGARAM SCRR,other,False,,Pure praise/excitement because their books arrived.
+547962,@115851 @115821 Amanda in your leadership team in your Oregon call center cost you a customer. Everything is canceled. Great Job Amazon!,other,True,sensitive_issue,Customer complaining about employee behavior.
+2529310,@116618 can you please let us buffer the video? I let the web page open for an hour...,technical_issue,False,,Prime Video buffering feature request.
+1668879,@117086 e @263285 faz um aplicativo fora da Playstore com suporte ao Android TV ou começa a vender o Firestick por aqui também.,other,False,,Portuguese feature request for app/firestick.
+2671599,"@AmazonHelp My mobile number listed is 9673101122, but u can reach me on 9818601122",account_membership_issue,True,account_access_required,Providing alternative phone number.
+1243790,@115821 one question. If i buy Amazon Fire HD Tablet with Special Offers I can in the future pay 10 more GBP to remove ads? #Amazon #FireHD,product_issue,False,,Question about Fire HD feature.
+2884194,@AmazonHelp I guess you asking me wasn't to actually help me. Maybe it was just to make the appearance of helping me?,other,True,repeated_unresolved_issue,Frustration with lack of help.
+2922466,@AmazonHelp (ಠ_ಠ) Didnt realize your couriers needed reminders about basic fire safety.,delivery_issue,True,sensitive_issue,Courier safety complaint.
+1613582,"@115850 Need help, with the status on two refunds. Been a month already since I sent the shipment back. Thanks.",refund_issue,True,order_access_required,Refund status on returned items.
+2718032,"@ AmazonFR paid for 22 quantities of VR Headset received confirmation, but only 1 delivered",product_issue,True,order_access_required,Missing items in package.
+2132832,"@AmazonHelp Says looks like it's lost, check the the options below. But there aren't any!",delivery_issue,True,order_access_required,Lost package tracking issue.
+2317797,割と長い期間Amazonのプライム会員だけど、本の読み放題あるの今知った。,other,False,,Japanese pure praise/comment about Prime reading.
+1416745,@AmazonHelp But can not understand the cause of delay,delivery_issue,True,order_access_required,Reason for delivery delay needed.
+2511569,When nothing you’ve ordered on #AmazonPrime in the past month has actually arrived in two-days. Am I seriously the only one? @115821,delivery_issue,False,,General complaint about Prime delivery times.
+2816293,@AmazonHelp ordered a JBL CHARGE3 on Black Friday. Unplugged it the first time it does this help!  @164902 maybe you can help too?  I don’t want a return just a new cord.,product_issue,True,order_access_required,"Defective cord, requesting replacement cord."
+2678794,@AmazonHelp Dans ce cas annulez ma commande et remboursez moi,order_issue,True,order_access_required,French request to cancel order and refund.
+1189739,"@AmazonHelp @115850 Can I know why the pickup is cancelled??
+I am done with this bullshit despite you guys apologizing for yesterday's behavior.
+Call me.",return_issue,True,order_access_required,Return pickup cancelled unexpectedly.
+2891947,@115821 I need help! I scanned a $50 gift card on my phone 11/23 and it’s not noted on my account. I noticed yesterday when I went to make a purchase. I sent emails and to no avail. Please help.,payment_billing_issue,True,payment_verification_required,Gift card scan didn't register.
+386478,"@115850 @AmazonHelp @115821 - Order# 408-3265294-3245900,I haven't recevied my product yet, nobody is giving the date ,i am a prime member",delivery_issue,True,order_access_required,Missing package with order number.
+1774116,@AmazonHelp I have shared the required details. Please resolve the issue ASAP,other,True,repeated_unresolved_issue,Contextless follow up.
+1009206,"@AmazonHelp Just spoke with your representative and found him 'rude' which is 'silly', and never expected this from the professionals like u @115850",other,True,sensitive_issue,Feedback on rude representative.
+1572817,"@AmazonHelp Hello Team, Return order request has not been done yet. Please help. Urgent..",return_issue,True,order_access_required,Auto-annotated: Return keywords found.
+2355264,"So if you lost my #kindle how exactly was it returned @115821, Also why do you think my home is a business. Also, why did you say I was closed because today is a holiday? Do I owe myself holiday pay? #Curious https://t.co/ig2otyw5Lw",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2220064,"@AmazonHelp Haven't received yet? I guess I have to cancel this order. I have to give to a friend who is leaving tomorrow morning. If its not delivered today, I would be forced to cancel this order.",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+561656,@AmazonHelp It was amazon. AMZL US,other,False,,Auto-annotated: No specific keywords matched.
+1712586,If @115821 leaves another one of my packages outside unattended I’m going to stop ordering from them @AmazonHelp,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+970283,"@AmazonHelp I will never advise any of my known people to buy a single thing from Amazon. Even it's offered for free. Really absurd, arrogant attitude.",pricing_promotion_issue,True,order_access_required,Auto-annotated: Pricing/promo keywords found.
+2402381,"@AmazonHelp it was DPD I’ve had pantry boxes before always secure, I’ll need to reorder but I’m not paying delivery again",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+752409,@AmazonHelp This came up so I emailed the email address on the website to send proof and that is what failed to send https://t.co/bWem9XFFQm,technical_issue,False,,Auto-annotated: Technical keywords found.
+2329608,@AmazonHelp Also promised a refund for missing order but no email confirmation yet,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2708442,Amazonプライムにも入会してしまったのでますます視聴がおっつかない,other,False,,Auto-annotated: No specific keywords matched.
+723279,@AmazonHelp No. it just diappears.,other,False,,Auto-annotated: No specific keywords matched.
+888415,@AmazonHelp I appreciate your response. We posted the same on your page just to bring it in to your notice and swift action only as we are frustrated enough by the system,other,False,,Auto-annotated: No specific keywords matched.
+2240674,"@AmazonHelp thank u amazon not to deliver my product on time.
+Again missed delivery date",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+505782,@AmazonHelp Vendido x Amazon EU,other,False,,Auto-annotated: No specific keywords matched.
+120273,Thanks to @116935 for an easy-to-use and fast-connection iOS App! #BehindTheSmile,other,False,,Auto-annotated: No specific keywords matched.
+2212009,"@117795 really don't like when your couriers lie about accessing my location that has no security gate.  My son has allergies, I order his food from you.  Now he has to wait bc your courier doesn't know how to Google map. Or call us if lost. Thx",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+320882,@AmazonHelp @115850 trimmer and bedsheet means the same ! I can keep the bedsheet if it's a Diwali gift but send me the trimmer I had ordered ASAP. https://t.co/KbQKMv8sxX,order_issue,True,order_access_required,Auto-annotated: Order/cancel keywords found.
+535083,@AmazonHelp 人工知能と疑ってすみませんでした。丁寧なリプライ心に響きました。遅い時間までお疲れ様です。頑張ってください。,other,False,,Auto-annotated: No specific keywords matched.
+814214,@115850 Surprised that @118702 @122951 delivers every product in 620024 but you don't,other,False,,Auto-annotated: No specific keywords matched.
+281979,@AmazonHelp Your product wich is in pic looks diffrent nd we receve is diffrent and also a color we cannt cancle this bcz i m live in dakor gujarat,other,False,,Auto-annotated: No specific keywords matched.
+2870730,Way to go @115821 for just throwing my stuff in a box with no packing material and with everything out of the wrappers. #goodjob https://t.co/lVMo6vFahI,product_issue,False,,Auto-annotated: No specific keywords matched.
+384166,@AmazonHelp Pl tell me delivery date,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1283798,@AmazonHelp Una ayer y hoy mismo he puesto otra.,other,False,,Auto-annotated: No specific keywords matched.
+300502,@AmazonHelp already been on the phone to customer support still fuming with you cancelling my prime membership disgusting behaviour,account_membership_issue,True,account_access_required,Auto-annotated: Account keywords found.
+2679227,@AmazonHelp não,other,False,,Auto-annotated: No specific keywords matched.
+1434066,"@123813 existe mes de prueba? La competencia es pésima, pero dicen que ""más vale malo conocido...""",other,False,,Auto-annotated: No specific keywords matched.
+490547,@115821 why is the Alexa app moving so slow today ?,technical_issue,False,,Auto-annotated: Technical keywords found.
+1558898,i'm crying my amazon package was supposed to arrive at 9 and it's def 9:20,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+348953,@AmazonHelp Like I mentioned in my first tweet I was assured and sent an email confirmation but still I keep receiving the product every 2 months. Not sure if its a bug in your systems that my order is not getting updated,technical_issue,False,,Auto-annotated: Technical keywords found.
+1869767,"@AmazonHelp My card was already charged, but the status says ""shipping soon"". I am concerned that if my order hasn't even been shipped, then how will it be delivered by the date Amazon sets? But I will wait until the 10th to see if my order gets home.",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+973570,"@115851 @AmazonHelp Why is @115850 promoting and selling spurious/counterfeit items? No answer to queries to them. Does Amazon encourage selling counterfeits? In India, this is illegal. https://t.co/9eXMnsrn99",pricing_promotion_issue,True,order_access_required,Auto-annotated: Pricing/promo keywords found.
+1445350,You pay for an Amazon Prime membership and this is where your packages are left whilst you’re at work 😤 #NotImpressed @115830 https://t.co/UEvbve6G0I,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1380693,@115821 wanna tell me why the order I placed yesterday w/1-day shipping isn’t scheduled 2 arrive until Wed? GRANDDAUGHTER B-DAY &amp; u SUCK,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1302305,"@115850 #AmazonNow has some rude representatives 😷
+Pathetic! Send a substitute and later argue nonsense without  getting facts right!",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+990743,@AmazonHelp Again my another order with  Order ID: #405-0991980-9519516 cancelled without my concern why amazon provide offers during great indian sale?,pricing_promotion_issue,True,order_access_required,Auto-annotated: Pricing/promo keywords found.
+873862,@AmazonHelp I'm trying to watch 12 Chairs on prime but the subtitles are about a minute off to the words. Is it an issue on my end or yours,other,False,,Auto-annotated: No specific keywords matched.
+1750492,What's the point of subscribing to @115830 Prime if it keeps failing to meet its one day delivery promise? Then being told to wait another few days for it to turn up. Rubbish.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+475137,@AmazonHelp A just need acces to my account why are you lot making this so hard for me,account_membership_issue,True,account_access_required,Auto-annotated: Account keywords found.
+546366,"@AmazonHelp Num: CR0000301163
+En transit
+Livraison avant 20h",other,False,,Auto-annotated: No specific keywords matched.
+2571783,"@AmazonHelp @115830  Can you please quote the definition of ""Guaranteed delivery"" please?What's the point in prime if you fail to deliver?",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1043021,@AmazonHelp Could I get a message please? I’ve got a complaint to make,other,False,,Auto-annotated: No specific keywords matched.
+1710386,@AmazonHelp See line extra 3000 off on this mobile,other,False,,Auto-annotated: No specific keywords matched.
+710630,"@115821 Today it was @81 , the gear I got yesterday was @115817",other,False,,Auto-annotated: No specific keywords matched.
+1490162,.@AmazonHelp Pre-ordered @123473 @466085 #Slobberkocker a month ago. Now I've been told it won't be dispatched until DECEMBER! Why?,order_issue,True,order_access_required,Auto-annotated: Order/cancel keywords found.
+422033,"@AmazonHelp Ist aktiviert, funktioniert aber nicht. Heute wieder 2x😩  Kam bisher nur 1x an, bei einer Bestellung von Amazon USA. Geht auch anderen so. 🙁",other,False,,Auto-annotated: No specific keywords matched.
+1369958,@115850 @115850 I am expecting a quick response,other,False,,Auto-annotated: No specific keywords matched.
+244076,"@115850 Return pick is not as per date schedule.
+Unsatisfied with Amazon service.pin394601 __email__",return_issue,True,order_access_required,Auto-annotated: Return keywords found.
+1132127,@AmazonHelp I don't think it's anything nefarious but I get constant order and shipping confirmations for things I didn't buy which is super annoying,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2593126,"Compras navideñas, listas ✔
+Gracias @116875 !!",other,False,,Auto-annotated: No specific keywords matched.
+922728,@AmazonHelp I've ordered through Amazon.. The product was received by the courier.. But they've said that they can't deliver to my home..,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2439667,Clients @115821 attention à l'arnaque qui tourne par mail !!! https://t.co/UgGWLuJjw1,other,False,,Auto-annotated: No specific keywords matched.
+2290432,"@AmazonHelp My recent orders aren't displaying in My Account, can you help?",account_membership_issue,True,account_access_required,Auto-annotated: Account keywords found.
+975030,@AmazonHelp @115850 so any update,other,False,,Auto-annotated: No specific keywords matched.
+1505374,@AmazonHelp i think amazon have just took a random £1 off me? I have no idea why,other,False,,Auto-annotated: No specific keywords matched.
+841372,朝いきなりAmazon有料サイトてきたあ(＞＜)こわっいぃぃぃ https://t.co/EtCZ6oi0fU,other,False,,Auto-annotated: No specific keywords matched.
+575357,Hello @115821 where the heck is the cat tree I ordered for my cat’s birthday. It was supposed to be here yesterday,order_issue,True,order_access_required,Auto-annotated: Order/cancel keywords found.
+600271,@115830 really annoying Mr at this stage can't get a single issue resolved. Can I please have a contact number for customer service in Ireland,other,False,,Auto-annotated: No specific keywords matched.
+1306446,How’s my Thursday going? Well my amazon account got hacked and was charged $900... &amp; I’m honestly impressed bc I didn’t know I had $900,payment_billing_issue,True,payment_verification_required,Auto-annotated: Payment keywords found.
+790175,@AmazonHelp very funny..I have already contacted ur team two times but they are helpless..your delivery process sucks..order#216240052017,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+945616,@AmazonHelp I have shared the details .please have a look.,other,False,,Auto-annotated: No specific keywords matched.
+318548,@115850 till now i have no confirmation about order even though guaranteed delivery !!,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+434588,"@AmazonHelp Amazon logestic team has arrived my house and talking roude,  that he has delivered to neibour itseems, and we don't no anyone there and",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+350259,@115850 i place 2 Order # 406-0047227-2461909 &amp; 406-9046171-0664359. I select wrong delivery address by mistake. Plz update my address,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+458905,@115821 you need better customer service reps.,other,False,,Auto-annotated: No specific keywords matched.
+900900,"これ今日2通目やねんけど
+Amazonちゃうよな？
+装ってるやつやんな。 https://t.co/oABRpkqJ5c",other,False,,Auto-annotated: No specific keywords matched.
+397417,@AmazonHelp Una reclamación por vuestra parte.,other,False,,Auto-annotated: No specific keywords matched.
+1427864,"@115830 Yes, and surprisingly enough they don’t say ‘inside my bin’",other,False,,Auto-annotated: No specific keywords matched.
+831080,@AmazonHelp Nope. They cancelled the one that was supposed to arrive 10/7. And will try to get the next subscription order out.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2401222,@AmazonHelp It is getting increasingly annoying to figure out when a Prime item will be delivered.,delivery_issue,False,,Auto-annotated: No specific keywords matched.
+2827266,@AmazonHelp こういう事に備えて無駄に箱が大きいと思っています。商品の箱には破損もなく、動作も問題ないようです。お気遣い有り難うございました。,other,False,,Auto-annotated: No specific keywords matched.
+725245,@115850 @AmazonHelp I had ordered OnePlus5 on 28th June ‘17. I still haven’t receivedcashback of Rs. 1500 (SBI card offer). Please help!!! https://t.co/227y7N6DdC,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2390423,@AmazonHelp Easy set up and the ability to send messages/make phone calls with voice recognition 👍🏻 thanks @115821,other,False,,Auto-annotated: No specific keywords matched.
+2551968,"@AmazonHelp Nope. Just takes me to sign in page. I just won't buy anything but books/dvds anymore. They're cheap. If I can't return,no big loss.",return_issue,True,order_access_required,Auto-annotated: Return keywords found.
+246378,"@AmazonHelp Gestionado por Amazon.
+Vendido por: Amazon EU S.a.r.L.",other,False,,Auto-annotated: No specific keywords matched.
+1209481,アマゾンで注文してた零さんのウィッグが届いていないのに配達完了になっているw零さんどこいったんですかww,other,False,,Auto-annotated: No specific keywords matched.
+439697,@AmazonHelp Reverted but failed. Share correct email id,other,False,,Auto-annotated: No specific keywords matched.
+1424282,@AmazonHelp 406-6963082-7457947 order number ! I am a prime customer and this service is really a joke,order_issue,True,order_access_required,Auto-annotated: Order/cancel keywords found.
+816088,"@AmazonHelp Hi. Sorry late getting back, I had an email on 22/07/17 stating that auto renew was turned off and no further payments would be taken.",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+322025,@115830 I've just received an email from you saying I need click on a link to get a credit voucher. Is this spam? I can dm a copy.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2391895,@AmazonHelp pls pls pls tell me you'll have music unlimited BF deals for EXISTING customers (uk),pricing_promotion_issue,True,order_access_required,Auto-annotated: Pricing/promo keywords found.
+179988,@AmazonHelp Can you not advise anything here?,other,False,,Auto-annotated: No specific keywords matched.
+1748909,@120533 vous allez sortir la fire HD 10 en France ? Une date ?,technical_issue,False,,Auto-annotated: Technical keywords found.
+2956966,"@AmazonHelp What exactly do you want me to do? That just takes me to your ""questions?"" Page… 
+I don't have a question. It is a reoccurring complaint. https://t.co/Hrg68liFcR",other,False,,Auto-annotated: No specific keywords matched.
+2852110,"@116928 Buenas tardes! Tengo un producto defectuoso y no puedo contactar con el vendedor. 
+Número del pedido:
+ 171-7713708-0461967
+¿Cómo he de proceder para su reembolso o sustitución? Gracias",other,False,,Auto-annotated: No specific keywords matched.
+1367967,"@AmazonHelp Order is ""dispatching soon"" but it's arriving today, and it's 4pm already? Need this item for work. https://t.co/sjlHw5kAsy",order_issue,True,order_access_required,Auto-annotated: Order/cancel keywords found.
+152203,@AmazonHelp Ah dommage je n'achèterais pas alors. Vous ne savez pas si vous en aurez à nouveau en stock ? (vu que ce sont les nouveaux ipad pro).,other,False,,Auto-annotated: No specific keywords matched.
+123424,"@116313 →Kindle版も絶賛おススメ！
+見開きページのビジュアルが見事です。
+紙媒体だとページのあいだ、いわゆるノド？にあたるところで画像がどうしてもすこし難ありのなりますが、2ページ見開き掲載スタイルにすると画面いっぱいにー
+つよぽんのーごろさんのーしんごのー
+素晴らしい｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡",technical_issue,False,,Auto-annotated: Technical keywords found.
+355328,Um grande elogio p/ @117086 q vendeu a coleção d teatro completa do Shakespeare c/ o menor preço da interwebs e entregou em menos d 2d ❤️ https://t.co/vs0UqFqOSr,other,False,,Auto-annotated: No specific keywords matched.
+2740685,@115850 I have purchased a Motorola pulse escape for rupees 1990 and paid the amount by Visacard by online portal. But somehow first time the transection has been failed but money has been deducted and therefore I have paid second time for the product. I want my money back.,refund_issue,True,order_access_required,Auto-annotated: Refund keywords found.
+490381,Hey @115821 remind me why I'm paying for 2day shipping when twice this week my packages have been late and another package last month was also late.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+77578,"@AmazonHelp You see, it's not just the thrill and the throttle for me. It's the storytelling and the cliffhangers that make it, it. And not sure what the form was about, but filled it nevertheless... https://t.co/Hyexcr1JPZ",other,False,,Auto-annotated: No specific keywords matched.
+324221,"@115850 order id-402-4902132-3775509  how this paymnt can be done when no delivery boy came to my add.
+Allahabad delvry system is poor. https://t.co/jGqMCKUqen",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2341942,@AmazonHelp It says out for delivery,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1546647,@AmazonHelp I've gotten it and it works now so thank you,other,False,,Auto-annotated: No specific keywords matched.
+1380270,"@AmazonHelp I have placed 3 orders none of them have delivered yet. I had to cancel it after waiting for a months
+See Order#__credit_card__",payment_billing_issue,True,payment_verification_required,Auto-annotated: Payment keywords found.
+77624,"@118919 can you provide an assistance regarding a product i ordered because i received an email to review on the product when in fact it has not been delivered to me. The expected date of delivery mentioned was 28Nov, no attempts for delivery whatsoever",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+389949,@AmazonHelp @115851 the status still says on the way - This is laughable !! https://t.co/3nBMazoDUE,other,False,,Auto-annotated: No specific keywords matched.
+637324,@AmazonHelp It’s with https://t.co/qgEGP0rVqi. I have been charged $10.99 for a U.S subscription for amazon prime and I don’t have prime.,payment_billing_issue,True,payment_verification_required,Auto-annotated: Payment keywords found.
+2906640,"@AmazonHelp #facepalm cookies and cache do not create issues like that, those look like placeholder tokens that were not replaced when the page was rendered. I'd suggest you have your developers look into this, I am fairly sure they will find references to the tokens in the source code.",other,False,,Auto-annotated: No specific keywords matched.
+58121,@AmazonHelp A claim and escalated. Then the same bs email about how more info is needed and the seller hasn’t received the item. Horrible customer serv.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+394901,"@115821 @119356 @AmazonHelp @115851 @209576 Is there anyone who is really concerned abt their customers?  Desperately looking for positive solution. I m not getting any Email response too. Extremely disappointing. Instead of postmorteming the issue, give me the replacement of goods..🙏🙏",product_issue,False,,Auto-annotated: No specific keywords matched.
+1602143,"@115850 my package is to be delivered today. Have a flight in evening, and I am here at location only for the next two hours. Please help!",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1123622,@115850  https://t.co/JaLEb3OG0B,other,False,,Auto-annotated: No specific keywords matched.
+2405135,@AmazonHelp Had email with £40 off a Kindle. Website won't allow the code says it's expired.,technical_issue,False,,Auto-annotated: Technical keywords found.
+920931,@115850 Stop posting shit. You sold be a defective product and doesn't give a damn about  issue. #biycottAmazon #fakeamazon #disappointing services,product_issue,True,order_access_required,Auto-annotated: Product issue keywords found.
+2882567,"@AmazonHelp Yea, same day delivery didn’t get delivered TWICE. After leaving delivery instructions, even though even when I haven’t I usually get a phone call. Also my previous package with 2 day delivery was a day late. What’s the point in being a prime member?",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1682700,@AmazonHelp No updates since that Saturday message about access. Got other mail and different Amazon package on Saturday.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2288004,@AmazonHelp #First lost my order# then you place replacement order # 2 days delivery for normal purchase &amp; 5 days for replacement # what a disgusting service,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+862487,Mala experiencia con @116928. Van 2 pedidos no entregados y ha pasado casi 1 mes de la fecha de entrega. Pongo reclamación y ni contestan,other,False,,Auto-annotated: No specific keywords matched.
+782539,@115850 kindly refund my money  order #404-9907668-2959526,refund_issue,True,order_access_required,Auto-annotated: Refund keywords found.
+2463902,How do I contact @115830 and why is it so dificoult?,other,False,,Auto-annotated: No specific keywords matched.
+382918,"Really wanting to be an @115821 fan, but when all three of my devices are broken after having them for 3 months it's hard...",product_issue,True,order_access_required,Auto-annotated: Product issue keywords found.
+425425,@AmazonHelp How long it will take can you please deliver it now.,delivery_issue,False,,Auto-annotated: No specific keywords matched.
+1466066,@AmazonHelp Livraison reportée au 2 novembre.. Heureusement que j'en avais besoin avant et que j'ai pris celui là pour le fait qu'il arrivait avant ! ;),other,False,,Auto-annotated: No specific keywords matched.
+182978,@AmazonHelp yes i dropped all the details. it has been more than a week.,other,False,,Auto-annotated: No specific keywords matched.
+1547873,"@115821 amazone did fraud with me.. i buy a product prepaid and amazone didn't give me the product or  refund 
+Order #
+403-4256956-6053949",refund_issue,True,order_access_required,Auto-annotated: Refund keywords found.
+2614171,Just called @115830 . They said account is on hold. Couldn’t tell me why and that someone would call me in 24hours. Utter rubbish. Your customer service continues to dumbfound me.,account_membership_issue,True,account_access_required,Auto-annotated: Account keywords found.
+883014,"@115821 So, now explaining it for a fifth time to get another agent. Who still doesn’t get it.",other,False,,Auto-annotated: No specific keywords matched.
+1494753,@AmazonHelp You did it again. Received wrong product today sixth time..  #nowords @AmazonHelp,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1832523,@AmazonHelp @115821 @AmazonHelp @115850 what good is amazon prime for me then? when it doesn't even work.,other,False,,Auto-annotated: No specific keywords matched.
+243218,@116875 hola me pueden ayudar a hacer una corrección en una factura de un producto que ya recibí?,other,False,,Auto-annotated: No specific keywords matched.
+245219,@115850 How come the prce of Sandisk microsd crd wth adaptor priced in ur 'Lightning Deal' as 649 bcomes 739 at chkout wth normal delivery,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+109855,@115850 Trying to reach amazon customer care since last two weeks regarding order 408-3616751-7832318. Tried through email and call but no response. Tried in app help but no relevant option. I pm my number to you to call me regarding the issue.,technical_issue,False,,Auto-annotated: Technical keywords found.
+210450,@AmazonHelp Can you please tell me why same product is tagged with 3 different prices at 3 different times..,pricing_promotion_issue,True,order_access_required,Auto-annotated: Pricing/promo keywords found.
+2980274,アマゾンさん違う商品送ってきたよ～😭,other,False,,Auto-annotated: No specific keywords matched.
+2166603,"@115850 Whats the point giving code which never works and give error ""This property is not participating in the offer"" -Lucky Winner of Amazon Great Indian Festival 2017",technical_issue,False,,Auto-annotated: Technical keywords found.
+457754,@AmazonHelp @137599 my copy of destiny 2 was cancelled because we used the same card to pay on each account and every person I’ve talked to in CS has told me to just buy it again at more than double the price it was when I purchased it,payment_billing_issue,True,payment_verification_required,Auto-annotated: Payment keywords found.
+304392,Okay but... I'm officially a victim of misleading photos on Amazon. @115821 https://t.co/hl2Z2nJQJm,other,False,,Auto-annotated: No specific keywords matched.
+2806593,"Hi.
+https://t.co/GzF9Py9bXZ",other,False,,Auto-annotated: No specific keywords matched.
+39590,For god sake @115821!! Second time in 6 weeks your delivery guy breaks my mailbox door! Like that box was ever going to fit!! .de order https://t.co/N6GqYoVsDo,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+1423502,Half of the country who ordered Echo after October 5 has received their unit. But @115850 guys in Hyderabad are yet to deliver my unit.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+695,Just pulled another #Amazon delivery out of the bushes since the #amzl people can’t walk the extra 2 ft to my door. So tired of this.,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+424012,"@118919 Madharchod amajon wale randi ke aaulad madharcho mera paisa fasaya helpline numbe bhi nhi lag rha 
+Bhut jaldi honewala hai patan india se",other,False,,Auto-annotated: No specific keywords matched.
+787143,"@AmazonHelp  agents say, we will refund you in 5 days! it's been 13 days. still waiting for @71902 @133462 is growing better. https://t.co/nNwMDB50eP",refund_issue,True,order_access_required,Auto-annotated: Refund keywords found.
+493272,"@AmazonHelp Have done that. But what’s the point, have raised it before but no one does anything???",other,False,,Auto-annotated: No specific keywords matched.
+279683,"@AmazonHelp @115851 very shameful activity by amazon, instead of taking action on complaint you people give make responsibility on consumer. 1/2",other,False,,Auto-annotated: No specific keywords matched.
+2954500,@115830 Can you confirm that order 206-8195514-7057146 is still being delivered today please,order_issue,True,order_access_required,Auto-annotated: Order/cancel keywords found.
+1451821,@AmazonHelp Here it is. I know they are working hard and a hurry but it’d be nice if packages were not thrown @ front door https://t.co/MQQLDAceIW,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+326736,@AmazonHelp Danke,other,False,,Auto-annotated: No specific keywords matched.
+735276,@AmazonHelp You're missing the point I paid for next day delivery and here we are 2 days later and I still haven't got it,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2818521,"@AmazonHelp Milford, US (Massachusetts) station is unable to deliver *any* package to my address on time, if ever—I suspect they're intentionally ""losing"" (destroying) my packages, #AmazonLogistics leadership team is unable to provide satisfaction #CloseTheStation #TerminateStationManagers",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+957578,@AmazonHelp Providing my details 9th time. Let's see what you gonna do this time,other,False,,Auto-annotated: No specific keywords matched.
+403504,@AmazonHelp Dji phantom drones weren't available on amazonin. Are they available now since you showed one in the video lol,technical_issue,False,,Auto-annotated: Technical keywords found.
+757755,@AmazonHelp @115851  sorry to bother you but Amazon did mentally harass with me specially for this product.Pls do the needful. Pls escalate till high,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+863906,Amazon drivers need to fix up - how are you gunna pull up outside my house and still deliver my parcel to the wrong address 😐,delivery_issue,False,,Auto-annotated: No specific keywords matched.
+2903608,@AmazonHelp Still confused. Item I purchased is marked as Prime and in stock. Therefore should be despatched tomorrow latest surely? So I should have it Thursday? https://t.co/SaqeLWGZzK,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+2921393,Kitten TV on @116439 🐱🐱🐱 https://t.co/tmvlpcnbJ1,other,False,,Auto-annotated: No specific keywords matched.
+763046,@AmazonHelp ordered a phone case and paid £6 for next day deliver yesterday to be told it would be delivered today but never turned up 🤷🏻‍♀️,order_issue,True,order_access_required,Auto-annotated: Order/cancel keywords found.
+1676433,"@AmazonHelp Non, comment faire et pourquoi?",other,False,,Auto-annotated: No specific keywords matched.
+2308924,"@AmazonHelp Gonna have to return another thing now, 3rd thing in the last 2 months",return_issue,True,order_access_required,Auto-annotated: Return keywords found.
+1258266,"Just received my copy of #AnOrdinaryLife , thanks @115821 for Super fast delivery and really can't wait to start reading it @77379 https://t.co/cYFCPRFJEI",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+834414,@AmazonHelp Hable con atención al cliente y puse día reclamaciones,other,False,,Auto-annotated: No specific keywords matched.
+2697183,@AmazonHelp Where is the applications library??,delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+439233,"@AmazonHelp Bonjour, possible d'avoir des nouvelles d'un colis qui n'arrive pas en point relais colis ?",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+839378,@AmazonHelp Customer care helpless. No answers except prod cut will be delivered,delivery_issue,False,,Auto-annotated: No specific keywords matched.
+1776209,@115821 customer service is trash I was told 3 different things each time I called Then they hung up when I asked to speak with a supervisor,other,False,,Auto-annotated: No specific keywords matched.
+1100478,"tried ordering Wide Sargasso Sea off @115821 because i need it for college and my shipping address clearly has Fredericksburg, VA in it and they sent it to Troy, AL 😤😤 @AmazonHelp https://t.co/FAvVqC0fdq",delivery_issue,True,order_access_required,Auto-annotated: Delivery related keywords found.
+619188,@AmazonHelp Realmente eso es lo más importante y no la pérdida de mi pedido? Podéis pedirme por privado el número de seguimiento y así poder ayudarme creo.....,other,False,,Auto-annotated: No specific keywords matched.
+1665742,@AmazonHelp Amazonにこんなシステムがあったなんて……！,other,False,,Auto-annotated: No specific keywords matched.
