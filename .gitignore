@@ -16,3 +16,7 @@ clean_customer_messages.csv
 
 # Temporary/intermediate discovery data
 unannotated_tweets.json
+
+# Node dependencies (local testing)
+node_modules/
+package-lock.json
